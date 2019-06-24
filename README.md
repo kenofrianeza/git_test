@@ -1,0 +1,1 @@
+This is shibakinu's first git project!
